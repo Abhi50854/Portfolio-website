@@ -1,7 +1,3 @@
-Sure! Here's the updated `README.md` file **without any bash commands**:
-
----
-
 # 🌐 Personal Portfolio Website
 
 This is a responsive and elegant **portfolio website** designed and built using **HTML5** and **CSS3**. It serves as a personal introduction, showcasing who you are, your skills, education, interests, and ways to connect with you.
