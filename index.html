@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Portfolio Website</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="#home" class="active">Home</a>
+            <a href="#about">About</a>
+            <a href="#languages">Languages</a>
+            <a href="#education">Education</a>
+            <a href="#interests">Interests</a>
+            <a href="#projects">Projects</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+    <section id="home" class="home">
+        <div class="home-img">
+            <img src="my photo.JPG" alt="">
+        </div>
+        <div class="home-content">
+            <h1>Hi, It's <span>Abhi</span></h1>
+            <p>Hi! I’m Abhimanyu Adhikari, a passionate web developer with a love for creating functional and beautiful web experiences.</p>
+        </div>
+    </section>
+    <section id="about">
+        <h2>About</h2>
+        <p>I’m a web developer with a knowledge in programming fundamentals and a passion for building efficient software solutions.</p>
+    </section>
+    <section id="languages">
+        <h2>Programming Languages</h2>
+        <p>I’m familiar with HTML, CSS, Python, and JavaScript.</p>
+    </section>
+    <section id="education">
+        <h2>Education</h2>
+        <p>I have completed my high school education and am currently pursuing a Bachelor of Arts from an open university.</p>
+    </section>
+    <section id="interests">
+        <h2>Interests</h2>
+        <p>Web Development, AI and Tech Innovations.</p>
+    </section>
+    <section id="projects">
+        <h2>Projects</h2>
+        <p>Showcase your projects here.</p>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Provide your contact information here.</p>
+        <div class="social-media">
+            <a href="https://www.linkedin.com/" target="_blank">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="width:24px; vertical-align:middle;">
+                LinkedIn
+            </a> |
+            <a href="https://github.com/" target="_blank">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" style="width:24px; vertical-align:middle;">
+                GitHub
+            </a> |
+            <a href="https://twitter.com/" target="_blank">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" style="width:24px; vertical-align:middle;">
+                Twitter
+            </a>
+            |
+            <a href="mailto:your.email@gmail.com" target="_blank">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" style="width:24px; vertical-align:middle;">
+                Gmail
+            </a>
+            <hr>
+            <form class="contact-form" action="#" method="post" style="margin-top:16px;">
+                <label for="name">Name:</label><br>
+                <input type="text" id="name" name="name" required><br>
+                <label for="email">Email:</label><br>
+                <input type="email" id="email" name="email" required><br>
+                <label for="message">Message:</label><br>
+                <textarea id="message" name="message" rows="4" required></textarea><br>
+                <button type="submit">Send</button>
+            </form>
+        </div>
+    </section>
+</body>
+</html>
