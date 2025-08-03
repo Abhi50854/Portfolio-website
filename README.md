@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio Website
 
-This is a responsive and elegant **portfolio website** designed and built using **HTML5** and **CSS3**. It serves as a personal introduction, showcasing who you are, your skills, education, interests, and ways to connect with you.
+This is a responsive and elegant **portfolio website** designed and built using **HTML5** and **CSS3**. It serves as a personal introduction, show my skills, education, interests, and ways to connect with me.
 
 ## 📁 Project Structure
 
@@ -95,5 +95,3 @@ Aspiring Web Developer | Tech Enthusiast
 [LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/) • [Twitter](https://twitter.com/) • [Gmail](mailto:your.email@gmail.com)
 
 ---
-
-Let me know if you want a plain text version or if you'd like to add a license or hosting instructions!
